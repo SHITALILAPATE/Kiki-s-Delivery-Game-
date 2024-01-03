@@ -25,6 +25,6 @@ Launch the game and immerse yourself in the enchanting world of Kiki's Delivery 
 
 
 ## Credits
-- Special thanks to Studio Ghibli for the inspiration 🌟
+- Special thanks to Studio Ghibli for the inspiration.
 
 
