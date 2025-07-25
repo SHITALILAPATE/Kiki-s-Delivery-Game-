@@ -1,4 +1,4 @@
-# Kiki's Delivery Game 🧙‍♀️🎮
+# Kiki's Delivery Game !!!
 
 ## Description
 Embark on a magical journey inspired by Studio Ghibli's Kiki's Delivery Service. Fly on your broomstick, make deliveries, and experience the enchantment of Kiki's world......
